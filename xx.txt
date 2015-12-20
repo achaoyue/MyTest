@@ -1,2 +1,3 @@
 这是一个测试文件
 new line
+this editor can not eidth chinese
