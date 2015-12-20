@@ -3,3 +3,4 @@ new line
 fix line
 this editor can not eidth chinese
 this is new line ,write in workplace
+this is anthor new line
